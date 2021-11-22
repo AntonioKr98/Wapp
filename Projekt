@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>Apartment T&M Zagreb Airport</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="Apartments" content="Family apartment">
+		<meta name="keywords" content="">
+		<meta name="author" content="Antonio Krsnik">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<style>
+			figure {
+				margin: 0;
+				padding: 0;
+				display: inline-block;
+			}
+		</style>
+	</head>
+	<body>
+	<h1> <b> APARTMENT T&M ZAGREB AIRPORT</b> </h1>
+	<h2> <b> O apartmanu... </b> </h2>
+	<p> Apartman T&M Zagreb Airport nalazi se u Velikoj Mlaki te sadrži vrt, opremu za roštilj i terasu. Do centra Zagreba ima 14 km. Gostima su na raspolaganju klima-uređaj, besplatan WiFi i privatno parkiralište. Ovaj apartman ima 2 spavaće sobe, TV ravnog ekrana sa satelitskim programima, opremljenu kuhinju s perilicom posuđa i mikrovalnom pećnicom, perilicu rublja i 1 kupaonicu s kadom.
+	Do Karlovca ima 45 km, a do Čateža ob Savi 42 km od objekta. Zračna luka Franjo Tuđman u Zagrebu udaljena je 5 km od apartmana T&M Zagreb Airport.</p>	
+	<h3> <b> Izgled apartmana </b> </h3>
+	<figure id="figure_1">
+		<a href="images/apartman1.jpg" target="_blank"> <img src="images/apartman1.jpg" height="450" width="700" alt="Apartment T&M Zagreb Airport" title="Apartman"></a>
+	</figure>
+	<figure id="figure_2">
+		<a href="images/apartman2.jpg" target="_blank"> <img src="images/apartman2.jpg" height="450" width="700" alt="Apartment T&M Zagreb Airport" title="Apartman"></a>
+	</figure>
+	</body>
+</html>
+			
